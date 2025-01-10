@@ -1,0 +1,655 @@
+[
+    
+    {
+      "id": 1,
+      "imageUrl": "assets/image1.png",
+      "text": "Аль-Хайтам",
+      "parameter": "dendro",
+      "additional_info": "Сила атаки: от 1600-1700 единиц Криты: 1:2 Мастерство стихий: 400-450 единиц Восстановление энергии: от 140-150% (без второго Дендро), 120-130% (с Дендро)"
+    },
+    {
+      "id": 2,
+      "imageUrl": "assets/image2.png",
+      "text": "Альбедо",
+      "parameter": "geo",
+      "additional_info": "Защита: примерно 2000-3000 Криты: 1:2 Сила атаки (в сборке с ультой): от 1700 и выше Восстановление энергии (в сборке с ультой): 100-120%"
+    },
+    {
+      "id": 3,
+      "imageUrl": "assets/image3.png",
+      "text": "Арлекино",
+      "parameter": "pyro",
+      "additional_info": "Сила атаки: от 1 800 ед. Для получения максимального бонуса от пассивного навыка «Лишь сила защитит» требуется 3 000 Крит. шанс: от 60% Крит. урон: от 120% Мастерство стихий: около 150-250 ед. при игре через реакции Восстановление энергии: 120-140% в отрядах через Перегрузку/моно-Пиро/Горение и 140-160% в командах через Пар/Таяние"
+    },
+    {
+      "id": 4,
+      "imageUrl": "assets/image4.png",
+      "text": "Аяка",
+      "parameter": "cryo",
+      "additional_info": "Сила атаки: 1800 и выше Восстановление энергии: 120-140%, если есть Крио резонанс. 150-160%, если нет Аяка часто играет с Крио резонансом, Розарией и сетом Заблудший в метели, поэтому нужно учитывать и внешние усиления."
+    },
+    {
+      "id": 5,
+      "imageUrl": "assets/image5.png",
+      "text": "Аято",
+      "parameter": "hydro",
+      "additional_info": "Сила атаки: от 1900-2000 единиц и выше Восстановление энергии со вторым Гидро: 140-150%, без Гидро: 200%+, без Гидро (с Райдэн): 130-150% Мастерство стихий собирается только если Аято закрывает реакции или играет от Бутонизации. Достаточно 200-250 единиц."
+    },
+    {
+      "id": 6,
+      "imageUrl": "assets/image6.png",
+      "text": "Бай Чжу",
+      "parameter": "dendro",
+      "additional_info": "HP: около 45.000-50.000 (но не более 50.000 из-за пассивки) Восстановление энергии: от 200% Мастерство стихий: 150-200"
+    },
+    {
+      "id": 7,
+      "imageUrl": "assets/image7.png",
+      "text": "Барбара",
+      "parameter": "hydro",
+      "additional_info": "Тебе видимо было похуй на Барбару..."
+    },
+    {
+      "id": 8,
+      "imageUrl": "assets/image8.png",
+      "text": "Беннет",
+      "parameter": "pyro",
+      "additional_info": "HP: примерно 18 000-20 000 Восстановление энергии: примерно 180-200% криты: 1:2 Мастерство стихий: около 150+ ед., если Беннет играет в отряде через реакции"
+    },
+    {
+      "id": 9,
+      "imageUrl": "assets/image9.png",
+      "text": "Бэй Доу",
+      "parameter": "electro",
+      "additional_info": "Сила атаки: примерно от 1500 и выше Восстановление энергии: стоит держать примерно в рамках 180-220 ед Мастерство стихий: около 80-150 ед. при игре через реакции, особенно в Дендро отряде"
+    },
+    {
+      "id": 10,
+      "imageUrl": "assets/image10.png",
+      "text": "Венти",
+      "parameter": "anemo",
+      "additional_info": "Мастерство стихий: около 600-1000 ед Мастерство стихий: около 600-1000 ед"
+    },
+    {
+      "id": 11,
+      "imageUrl": "assets/image11.png",
+      "text": "Гань Юй",
+      "parameter": "cryo",
+      "additional_info": "Сила атаки: от 2000 и больше Восстановление энергии: около 110-120% достаточно Мастерство стихий: примерно 150-200. Эта характеристика требуется только при игре через Таяние"
+    },
+    {
+      "id": 12,
+      "imageUrl": "assets/image12.png",
+      "text": "Горо",
+      "parameter": "geo",
+      "additional_info": "Защита: от 1500 и больше Восстановление энергии: 180-220% в зависимости от состава отряда и наличия Фавония у Горо"
+    },
+    {
+      "id": 13,
+      "imageUrl": "assets/image13.png",
+      "text": "Джинн",
+      "parameter": "anemo",
+      "additional_info": "Сила атаки: от 1900 и выше Восстановление энергии: около 180-220%"
+    },
+    {
+      "id": 14,
+      "imageUrl": "assets/image14.png",
+      "text": "Дилюк",
+      "parameter": "pyro",
+      "additional_info": ""
+    },
+    {
+      "id": 15,
+      "imageUrl": "assets/image15.png",
+      "text": "Диона",
+      "parameter": "cryo",
+      "additional_info": "HP: 25 000 единиц и более. Восстановление энергии: от 150% и более"
+    },
+    {
+      "id": 16,
+      "imageUrl": "assets/image16.png",
+      "text": "Дори",
+      "parameter": "electro",
+      "additional_info": "На дори тебе тоже было похуй..."
+    },
+    {
+      "id": 17,
+      "imageUrl": "assets/image17.png",
+      "text": "Дэхья",
+      "parameter": "pyro",
+      "additional_info": "Сила атаки: 1700-1900 HP: 25.000-30.000 Криты: 1:2 Мастерство стихий: около 150-300 в отрядах через реакции. Если Дэхья играет в моно Пиро отряде, то мастерство не нужно Восстановление энергии: для основного дд – 130-150 ед., для ульт прокастера 170-200 ед"
+    },
+    {
+      "id": 18,
+      "imageUrl": "assets/image18.png",
+      "text": "Е Лань",
+      "parameter": "hydro",
+      "additional_info": "здоровье: 25 000-33 0000 и более восстановление энергии: 160%, если играете с луком Фавония и Гидро союзником. 200%, если Е Лань — единственная Гидро в команде и с Фавонием. 230-240% нужно при использовании сигнатурного оружия Аквы Симулякрум и отсутствии других Гидро в команде"
+    },
+    {
+      "id": 19,
+      "imageUrl": "assets/image19.png",
+      "text": "Ёимия",
+      "parameter": "pyro",
+      "additional_info": "Сила атаки: от 1600 и выше Криты: 1:2 Мастерство стихий: 60-180, если Еимия играет в командах от реакции Пар. Если героиня атакует вместе с такими же Пиро союзниками, то МС не нужно Восстановление энергии: до 130% максимум. шанс крита: в идеале 80%"
+    },
+    {
+      "id": 20,
+      "imageUrl": "assets/image20.png",
+      "text": "Итто",
+      "parameter": "geo",
+      "additional_info": "Защита: от 2000 и выше Восстановление энергии: 120-140% в зависимости от количества Гео союзников и оружия Фавония в отряде Желательно держать показатель крит.шанса в районе 75-80%, а крит. урона – от 150-160% и выше"
+    },
+    {
+      "id": 21,
+      "imageUrl": "assets/image21.png",
+      "text": "Ка Минн",
+      "parameter": "pyro",
+      "additional_info": "Сила атаки: от 1700 и больше Криты: 1:2 Восстановление энергии: около 130-150% без С4 или Пиро союзника и примерно 120-130% при наличии С4 Мастерство стихий: примерно 100-250 ед. при игре через реакции"
+    },
+    {
+      "id": 22,
+      "imageUrl": "assets/image22.png",
+      "text": "Кавех",
+      "parameter": "dendro",
+      "additional_info": "Мастерство стихий: 250-350 единиц Сила атаки: от 1500 единиц Криты: 1:2 Восстановление: от 120%, если в команде есть второй Дендро. Если Кавех единственный персонаж этой стихии в отряде, то от 160%"
+    },
+    {
+      "id": 23,
+      "imageUrl": "assets/image23.png",
+      "text": "Кадзуха",
+      "parameter": "anemo",
+      "additional_info": "Мастерство стихий: 800+, если оружие на восстановление энергии. Если оно на МС, то 1000 для максимального баффа Восстановление энергии: от 170% и выше. Если есть первое созвездие и/или меч Фавония, то достаточно 140% Шанс крита (при использовании Фавония): выше 30%"
+    },
+    {
+      "id": 24,
+      "imageUrl": "assets/image24.png",
+      "text": "Кандакия",
+      "parameter": "hydro",
+      "additional_info": "ХП: саппорт – от 40.000 ХП и выше, мейн-дд – 30.000 ХП Восстановление: саппорт – от 180%, мейн-дд – 120% Мастерство стихий имеет смысл собирать если Кандакия закрывает реакции (или использует оружие Посох алых песков). В таком случае оптимально от 250 единиц"
+    },
+    {
+      "id": 25,
+      "imageUrl": "assets/image25.png",
+      "text": "Качина",
+      "parameter": "geo",
+      "additional_info": "Защита: 1800-2200 и более. Восстановление энергии: примерно 200% с Фавонием или 240% с другим оружием без Гео союзников, 180% с Фавонием или 210% без него с двумя Гео в команде, 160% с Фавонием или 180% с другим оружием с тремя Гео в пачке, 130-140% с полностью Гео командой. При наличии С1 требования на ~10% меньше."
+    },
+    {
+      "id": 26,
+      "imageUrl": "assets/image26.png",
+      "text": "Кинич",
+      "parameter": "dendro",
+      "additional_info": "Сила атаки: от 1300-1800 ед. в зависимости от экипированного оружия Восстановление энергии: 100-120% (с доп. Дендро героем в отряде) или 130-140% (без союзника с элементом Дендро)"
+    },
+    {
+      "id": 27,
+      "imageUrl": "assets/image27.png",
+      "text": "Кирара",
+      "parameter": "dendro",
+      "additional_info": "HP: около 30.000-40.000 HP Криты: 1:2 Восстановление энергии: 160-180% Мастерство: 100-150 Силу атаки (например, при наличии 4 созвездия) держать в районе 1500-1800 ед"
+    },
+    {
+      "id": 28,
+      "imageUrl": "assets/image28.png",
+      "text": "Кли",
+      "parameter": "pyro",
+      "additional_info": "Сила атаки: от 1600 и выше криты: 1:2 Мастерство стихий: 100-200 ед, если Кли играет в командах от реакций Пар или Таяние Восстановление энергии: около 120-140%"
+    },
+    {
+      "id": 29,
+      "imageUrl": "assets/image29.png",
+      "text": "Клоринда",
+      "parameter": "electro",
+      "additional_info": "Сила атаки: около 3000 для полной реализации пассивки Восстановление энергии: около 120%-140% Мастерство стихий: 150-250 ед. при игре с Дендро героями Учитывайте, что при полной прокачке и с выполнением условия пассивки будет 44.2% крит. шанса"
+    },
+    {
+      "id": 30,
+      "imageUrl": "assets/image30.png",
+      "text": "Кокоми",
+      "parameter": "hydro",
+      "additional_info": "HP: от 30.000 и выше Криты не нужны Восстановление: 180-200%, если Кокоми единственный Гидро. При наличии союзника такого же элемента хватит 150-160% Мастерство стихий: примерно 120-200 для команд от реакции Пар и 600+ для отрядов Бутонизации, в которых Кокоми взрывает Дендро ядра."
+    },
+    {
+      "id": 31,
+      "imageUrl": "assets/image31.png",
+      "text": "Коллеи",
+      "parameter": "dendro",
+      "additional_info": "Мастерство стихий: от 200-250 единиц и выше Сила атаки: от 1700 и выше Криты: 1:2 Восстановление энергии: от 180%. Можно и меньше при наличии С1 или второго Дендро-героя"
+    },
+    {
+      "id": 32,
+      "imageUrl": "assets/image32.png",
+      "text": "Кэ Цин",
+      "parameter": "electro",
+      "additional_info": "Сила атаки: от 1700 и выше Мастерство стихий: около 150-300 ед(дендро команды) Криты 1:2. При этом наиболее приемлемым показателем крит. урона будет 160-180% и выше, а крит.шанса ­– от 70%, но не более 85%, посколько героиня получает 15% после использования ульты."
+    },
+    {
+      "id": 33,
+      "imageUrl": "assets/image33.png",
+      "text": "Кэйа",
+      "parameter": "cryo",
+      "additional_info": "Сила атаки: около 1600-2000 Мастерство стихий: 150-300 ед. в отрядах с Пиро союзниками. Восстановление энергии: примерно 140-180% в зависимости от того, какую роль занимает Кэйа – саб-дд или основной дамагер При игре в Крио команде через Заморозку и использовании сета Заблудший в метели, достаточно набрать всего 30-40 крит. шанса"
+    },
+    {
+      "id": 34,
+      "imageUrl": "assets/image34.png",
+      "text": "Лайла",
+      "parameter": "cryo",
+      "additional_info": "HP: саппорт – 30.000-40.000 Восстановление энергии: 130-140%."
+    },
+    {
+      "id": 35,
+      "imageUrl": "assets/image35.png",
+      "text": "Лиза",
+      "parameter": "electro",
+      "additional_info": "Сила атаки: примерно от 1500 и выше Мастерство стихий (в Дендро отрядах): примерно 100-250 ед Восстановление энергии: 120-160% в роли мейн-дд и 180-220% роли саб-дд"
+    },
+    {
+      "id": 36,
+      "imageUrl": "assets/image36.png",
+      "text": "Линетт",
+      "parameter": "anemo",
+      "additional_info": "Мастерство стихий: 450-500 единиц Мастерство стихий: 450-500 единиц Восстановление энергии: 190-200% (без 4-го созвездия) и 170-180% (с 4-ым созвездием)"
+    },
+    {
+      "id": 37,
+      "imageUrl": "assets/image37.png",
+      "text": "Лини",
+      "parameter": "pyro",
+      "additional_info": "Сила атаки: от 1600 единиц Шанс крита и крит. урон: соотношение 1:2 Шанс крита и крит. урон: соотношение 1:2 Мастерство стихий: от 150 единиц (при игре через реакции)"
+    },
+    {
+      "id": 38,
+      "imageUrl": "assets/image38.png",
+      "text": "Мавуика",
+      "parameter": "pyro",
+      "additional_info": "Сила атаки: от 3000 ед. и выше Крит. шанс: 70%-80%. Мастерство стихий: около 200-300 ед. при условии, что Мавуика играет в отрядах от реакций Восстановление энергии Мавуике не нужно."
+    },
+    {
+      "id": 39,
+      "imageUrl": "assets/image39.png",
+      "text": "Мика",
+      "parameter": "cryo",
+      "additional_info": "HP: около 30.000-40.000 Восстановление энергии: 180%+ в случае, когда он играет с еще одним Крио в команде и 210%+, если он единственный герой этой стихии в отряде"
+    },
+    {
+      "id": 40,
+      "imageUrl": "assets/image40.png",
+      "text": "Мона",
+      "parameter": "hydro",
+      "additional_info": "Сила атаки: не менее 1500 ед Критшанс и урон:  1:2 Восстановление энергии: более 180% с сетом «Эмблема рассеченной судьбы», в других случаях до 170% Мастерство стихий: опциональная характеристика, в команде Пар до 250 е"
+    },
+    {
+      "id": 41,
+      "imageUrl": "assets/image41.png",
+      "text": "Муалани",
+      "parameter": "hydro",
+      "additional_info": ""
+    },
+    {
+      "id": 42,
+      "imageUrl": "assets/image42.png",
+      "text": "Навия",
+      "parameter": "geo",
+      "additional_info": ""
+    },
+    {
+      "id": 43,
+      "imageUrl": "assets/image43.png",
+      "text": "Нахида",
+      "parameter": "dendro",
+      "additional_info": ""
+    },
+    {
+      "id": 44,
+      "imageUrl": "assets/image44.png",
+      "text": "Нёвиллет",
+      "parameter": "hydro",
+      "additional_info": ""
+    },
+    {
+      "id": 45,
+      "imageUrl": "assets/image45.png",
+      "text": "Нилу",
+      "parameter": "hydro",
+      "additional_info": ""
+    },
+    {
+      "id": 46,
+      "imageUrl": "assets/image46.png",
+      "text": "Нин Гуан",
+      "parameter": "geo",
+      "additional_info": ""
+    },
+    {
+      "id": 47,
+      "imageUrl": "assets/image47.png",
+      "text": "Ноэлль",
+      "parameter": "geo",
+      "additional_info": ""
+    },
+    {
+      "id": 48,
+      "imageUrl": "assets/image48.png",
+      "text": "Оророн",
+      "parameter": "electro",
+      "additional_info": ""
+    },
+    {
+      "id": 49,
+      "imageUrl": "assets/image49.png",
+      "text": "Путешественник",
+      "parameter": "multi",
+      "additional_info": ""
+    },
+    {
+      "id": 50,
+      "imageUrl": "assets/image50.png",
+      "text": "Райдэн",
+      "parameter": "electro",
+      "additional_info": ""
+    },
+    {
+      "id": 51,
+      "imageUrl": "assets/image51.png",
+      "text": "Ризли",
+      "parameter": "cryo",
+      "additional_info": ""
+    },
+    {
+      "id": 52,
+      "imageUrl": "assets/image52.png",
+      "text": "Розария",
+      "parameter": "cryo",
+      "additional_info": ""
+    },
+    {
+      "id": 53,
+      "imageUrl": "assets/image53.png",
+      "text": "Рэйзор",
+      "parameter": "electro",
+      "additional_info": ""
+    },
+    {
+      "id": 54,
+      "imageUrl": "assets/image54.png",
+      "text": "Сайно",
+      "parameter": "electro",
+      "additional_info": ""
+    },
+    {
+      "id": 55,
+      "imageUrl": "assets/image55.png",
+      "text": "Сара",
+      "parameter": "electro",
+      "additional_info": ""
+    },
+    {
+      "id": 56,
+      "imageUrl": "assets/image56.png",
+      "text": "Сахароза",
+      "parameter": "anemo",
+      "additional_info": ""
+    },
+    {
+      "id": 57,
+      "imageUrl": "assets/image57.png",
+      "text": "Саю",
+      "parameter": "anemo",
+      "additional_info": ""
+    },
+    {
+      "id": 58,
+      "imageUrl": "assets/image58.png",
+      "text": "Сетос",
+      "parameter": "electro",
+      "additional_info": ""
+    },
+    {
+      "id": 59,
+      "imageUrl": "assets/image59.png",
+      "text": "Сиджвин",
+      "parameter": "hydro",
+      "additional_info": ""
+    },
+    {
+      "id": 60,
+      "imageUrl": "assets/image60.png",
+      "text": "Син Цю",
+      "parameter": "hydro",
+      "additional_info": ""
+    },
+    {
+      "id": 61,
+      "imageUrl": "assets/image61.png",
+      "text": "Синобу",
+      "parameter": "electro",
+      "additional_info": ""
+    },
+    {
+      "id": 62,
+      "imageUrl": "assets/image62.png",
+      "text": "Синь Янь",
+      "parameter": "pyro",
+      "additional_info": ""
+    },
+    {
+      "id": 63,
+      "imageUrl": "assets/image63.png",
+      "text": "Ситлали",
+      "parameter": "cryo",
+      "additional_info": ""
+    },
+    {
+      "id": 64,
+      "imageUrl": "assets/image64.png",
+      "text": "Тарталья",
+      "parameter": "hydro",
+      "additional_info": ""
+    },
+    {
+      "id": 65,
+      "imageUrl": "assets/image65.png",
+      "text": "Шилонен",
+      "parameter": "geo",
+      "additional_info": ""
+    },
+    {
+      "id": 66,
+      "imageUrl": "assets/image66.png",
+      "text": "Тома",
+      "parameter": "pyro",
+      "additional_info": ""
+    },
+    {
+      "id": 67,
+      "imageUrl": "assets/image67.png",
+      "text": "Тиори",
+      "parameter": "geo",
+      "additional_info": ""
+    },
+    {
+      "id": 68,
+      "imageUrl": "assets/image68.png",
+      "text": "Эмбер",
+      "parameter": "pyro",
+      "additional_info": ""
+    },
+    {
+      "id": 69,
+      "imageUrl": "assets/image69.png",
+      "text": "Фурина",
+      "parameter": "hydro",
+      "additional_info": ""
+    },
+    {
+      "id": 70,
+      "imageUrl": "assets/image70.png",
+      "text": "Эола",
+      "parameter": "cryo",
+      "additional_info": ""
+    },
+    {
+      "id": 71,
+      "imageUrl": "assets/image71.png",
+      "text": "Ху Тао",
+      "parameter": "pyro",
+      "additional_info": ""
+    },
+    {
+      "id": 72,
+      "imageUrl": "assets/image72.png",
+      "text": "Цици",
+      "parameter": "cryo",
+      "additional_info": ""
+    },
+    {
+      "id": 73,
+      "imageUrl": "assets/image73.png",
+      "text": "Сяо",
+      "parameter": "anemo",
+      "additional_info": ""
+    },
+    {
+      "id": 74,
+      "imageUrl": "assets/image74.png",
+      "text": "Яэ Мико",
+      "parameter": "electro",
+      "additional_info": ""
+    },
+    {
+      "id": 75,
+      "imageUrl": "assets/image75.png",
+      "text": "Элой",
+      "parameter": "cryo",
+      "additional_info": ""
+    },
+    {
+      "id": 76,
+      "imageUrl": "assets/image76.png",
+      "text": "Тигнари",
+      "parameter": "dendro",
+      "additional_info": ""
+    },
+    {
+      "id": 77,
+      "imageUrl": "assets/image77.png",
+      "text": "Сян Лин",
+      "parameter": "pyro",
+      "additional_info": ""
+    },
+    {
+      "id": 78,
+      "imageUrl": "assets/image78.png",
+      "text": "Хэйдзо",
+      "parameter": "anemo",
+      "additional_info": ""
+    },
+    {
+      "id": 79,
+      "imageUrl": "assets/image79.png",
+      "text": "Фишль",
+      "parameter": "electro",
+      "additional_info": ""
+    },
+    {
+      "id": 80,
+      "imageUrl": "assets/image80.png",
+      "text": "Янь Фей",
+      "parameter": "pyro",
+      "additional_info": ""
+    },
+    {
+      "id": 81,
+      "imageUrl": "assets/image81.png",
+      "text": "Шэнь Хэ",
+      "parameter": "cryo",
+      "additional_info": ""
+    },
+    {
+      "id": 82,
+      "imageUrl": "assets/image82.png",
+      "text": "Яо Яо",
+      "parameter": "dendro",
+      "additional_info": ""
+    },
+    {
+      "id": 83,
+      "imageUrl": "assets/image83.png",
+      "text": "Сянь Юнь",
+      "parameter": "anemo",
+      "additional_info": ""
+    },
+    {
+      "id": 84,
+      "imageUrl": "assets/image84.png",
+      "text": "Чжун Ли",
+      "parameter": "geo",
+      "additional_info": ""
+    },
+    {
+      "id": 85,
+      "imageUrl": "assets/image85.png",
+      "text": "Юнь Цзинь",
+      "parameter": "geo",
+      "additional_info": ""
+    },
+    {
+      "id": 86,
+      "imageUrl": "assets/image86.png",
+      "text": "Странник",
+      "parameter": "anemo",
+      "additional_info": ""
+    },
+    {
+      "id": 87,
+      "imageUrl": "assets/image87.png",
+      "text": "Фарузан",
+      "parameter": "anemo",
+      "additional_info": ""
+    },
+    {
+      "id": 88,
+      "imageUrl": "assets/image88.png",
+      "text": "Фремине",
+      "parameter": "cryo",
+      "additional_info": ""
+    },
+    {
+      "id": 89,
+      "imageUrl": "assets/image89.png",
+      "text": "Шарлотта",
+      "parameter": "hydro",
+      "additional_info": ""
+    },
+    {
+      "id": 90,
+      "imageUrl": "assets/image90.png",
+      "text": "Шеврёз",
+      "parameter": "pyro",
+      "additional_info": ""
+    },
+    {
+      "id": 91,
+      "imageUrl": "assets/image91.png",
+      "text": "Эмилия",
+      "parameter": "dendro",
+      "additional_info": ""
+    },
+    {
+      "id": 92,
+      "imageUrl": "assets/image92.png",
+      "text": "Часка",
+      "parameter": "anemo",
+      "additional_info": ""
+    },
+    {
+      "id": 93,
+      "imageUrl": "assets/image93.png",
+      "text": "Чун Юнь",
+      "parameter": "cryo",
+      "additional_info": ""
+    }    
+]
+  

@@ -1,0 +1,381 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "assets/weapon1.png",
+        "text": "Очертание алой луны",
+        "parameter": "weapon",
+        "info": "Арлекино"
+    }, 
+    {
+        "id": 2,
+        "imageUrl": "assets/weapon2.png",
+        "text": "Хома",
+        "parameter": "weapon",
+        "info": "Ху Тао"
+    },
+    {
+        "id": 3,
+        "imageUrl": "assets/weapon3.png",
+        "text": "Усмиритель бед",
+        "parameter": "weapon",
+        "info": "Шэнь Хэ \nКандакия"
+    }, 
+    {
+        "id": 4,
+        "imageUrl": "assets/weapon4.png",
+        "text": "Сияющая жатва",
+        "parameter": "weapon",
+        "info": "Сян Лин \n Розария"
+    }, 
+    {
+        "id": 5,
+        "imageUrl": "assets/weapon5.png",
+        "text": "Элегия люмидуз",
+        "parameter": "weapon",
+        "info": "Эмилия"
+    }, 
+    {
+        "id": 6,
+        "imageUrl": "assets/weapon6.png",
+        "text": "Посох алых песков",
+        "parameter": "weapon",
+        "info": "Сайно"
+    }, 
+    {
+        "id": 7,
+        "imageUrl": "assets/weapon7.png",
+        "text": "Нефритовый коршун",
+        "parameter": "weapon",
+        "info": "Сяо"
+    }, 
+    {
+        "id": 8,
+        "imageUrl": "assets/weapon8.png",
+        "text": "След Радуги",
+        "parameter": "weapon",
+        "info": "Качина"
+    },
+    {
+        "id": 9,
+        "imageUrl": "assets/weapon9.png",
+        "text": "Копье Фавония",
+        "parameter": "weapon",
+        "info": "Чжун Ли \nЮнь Цзинь \nМика \nЯо Яо"
+    },
+    {
+        "id": 10,
+        "imageUrl": "assets/weapon10.png",
+        "text": "Крест копье китаин",
+        "parameter": "weapon",
+        "info": "Тома"
+    },
+    {
+        "id": 11,
+        "imageUrl": "assets/weapon11.png",
+        "text": "Первый великий фокус",
+        "parameter": "weapon",
+        "info": "Лини"
+    },
+    {
+        "id": 12,
+        "imageUrl": "assets/weapon12.png",
+        "text": "Громовой пульс",
+        "parameter": "weapon",
+        "info": "Ёимия"
+    },
+    {
+        "id": 13,
+        "imageUrl": "assets/weapon13.png",
+        "text": "Элегия погибели",
+        "parameter": "weapon",
+        "info": "Венти \nКоллей \nСара \nФарузан \nЭмбер \nДиона"
+    },
+    {
+        "id": 14,
+        "imageUrl": "assets/weapon14.png",
+        "text": "Сердечные струны дождя",
+        "parameter": "weapon",
+        "info": "Сиджвин"
+    },
+    {
+        "id": 15,
+        "imageUrl": "assets/weapon15.png",
+        "text": "Аква симулякрум",
+        "parameter": "weapon",
+        "info": "Е Лань \nФишль \nОророн"
+    },
+    {
+        "id": 16,
+        "imageUrl": "assets/weapon16.png",
+        "text": "Полярная звезда",
+        "parameter": "weapon",
+        "info": "Тарталья"
+    },
+    {
+        "id": 17,
+        "imageUrl": "assets/weapon17.png",
+        "text": "Охотничья тропа",
+        "parameter": "weapon",
+        "info": "Тигнари \nСетос"
+    },
+    {
+        "id": 18,
+        "imageUrl": "assets/weapon18.png",
+        "text": "Алое перо звездного грифа",
+        "parameter": "weapon",
+        "info": "Часка"
+    },
+    {
+        "id": 19,
+        "imageUrl": "assets/weapon19.png",
+        "text": "Лук амоса",
+        "parameter": "weapon",
+        "info": "Гань Юй"
+    },
+    {
+        "id": 20,
+        "imageUrl": "assets/weapon20.png",
+        "text": "Лук фавония",
+        "parameter": "weapon",
+        "info": "Горо"
+    },
+    {
+        "id": 21,
+        "imageUrl": "assets/weapon21.png",
+        "text": "Маяк тростникового моря",
+        "parameter": "weapon",
+        "info": "Дэхья"
+    },
+    {
+        "id": 22,
+        "imageUrl": "assets/weapon22.png",
+        "text": "Краснорогий камнеруб",
+        "parameter": "weapon",
+        "info": "Итто \nСинь Янь \nДилюк"
+    },
+    {
+        "id": 23,
+        "imageUrl": "assets/weapon23.png",
+        "text": "Тысяча ослепительных солнц",
+        "parameter": "weapon",
+        "info": "Мавуика"
+    },
+    {
+        "id": 24,
+        "imageUrl": "assets/weapon24.png",
+        "text": "Клык горного короля",
+        "parameter": "weapon",
+        "info": "Кинич"
+    },
+    {
+        "id": 25,
+        "imageUrl": "assets/weapon25.png",
+        "text": "Вердикт",
+        "parameter": "weapon",
+        "info": "Навия"
+    },
+    {
+        "id": 26,
+        "imageUrl": "assets/weapon26.png",
+        "text": "Песнь разбитых сосен",
+        "parameter": "weapon",
+        "info": "Эола \nФремине \nРэйзор"
+    },
+    {
+        "id": 27,
+        "imageUrl": "assets/weapon27.png",
+        "text": "Волчья погибель",
+        "parameter": "weapon",
+        "info": "Бэй Доу \nСаю \nЧун Юнь"
+    },
+    {
+        "id": 28,
+        "imageUrl": "assets/weapon28.png",
+        "text": "Небесное величие",
+        "parameter": "weapon",
+        "info": "Дори"
+    },
+    {
+        "id": 29,
+        "imageUrl": "assets/weapon29.png",
+        "text": "Цветок в латах",
+        "parameter": "weapon",
+        "info": "Кавех"
+    },
+    {
+        "id": 30,
+        "imageUrl": "assets/weapon30.png",
+        "text": "Меч драконьей кости",
+        "parameter": "weapon",
+        "info": "Ка Мин"
+    },
+    {
+        "id": 31,
+        "imageUrl": "assets/weapon31.png",
+        "text": "Обряд вечного течения",
+        "parameter": "weapon",
+        "info": "Нёвиллет \nКли"
+    },
+    {
+        "id": 32,
+        "imageUrl": "assets/weapon32.png",
+        "text": "Лови волну",
+        "parameter": "weapon",
+        "info": "Муалани"
+    },
+    {
+        "id": 33,
+        "imageUrl": "assets/weapon33.png",
+        "text": "Великолепие лазурного свода",
+        "parameter": "weapon",
+        "info": "Бай Чжу"
+    },
+    {
+        "id": 34,
+        "imageUrl": "assets/weapon34.png",
+        "text": "Сноведение тысячи ночей",
+        "parameter": "weapon",
+        "info": "Нахида \nСахароза"
+    },
+    {
+        "id": 35,
+        "imageUrl": "assets/weapon35.png",
+        "text": "Вечное лунное сияние",
+        "parameter": "weapon",
+        "info": "Кокоми"
+    },
+    {
+        "id": 36,
+        "imageUrl": "assets/weapon36.png",
+        "text": "Истина кагуро",
+        "parameter": "weapon",
+        "info": "Яэ Мико \nЛиза"
+    },
+    {
+        "id": 37,
+        "imageUrl": "assets/weapon37.png",
+        "text": "Звонкий клич журавля",
+        "parameter": "weapon",
+        "info": "Сянь Юнь"
+    },
+    {
+        "id": 38,
+        "imageUrl": "assets/weapon38.png",
+        "text": "Воспоминания тулайтуллы",
+        "parameter": "weapon",
+        "info": "Странник"
+    },
+    {
+        "id": 39,
+        "imageUrl": "assets/weapon39.png",
+        "text": "Молитва святым ветрам",
+        "parameter": "weapon",
+        "info": "Хэйдзо"
+    },
+    {
+        "id": 40,
+        "imageUrl": "assets/weapon40.png",
+        "text": "Память о пыли",
+        "parameter": "weapon",
+        "info": "Шарлотта \nНин Гуан"
+    },
+    {
+        "id": 41,
+        "imageUrl": "assets/weapon41.png",
+        "text": "Казначейский надзор",
+        "parameter": "weapon",
+        "info": "Ризли"
+    },
+    {
+        "id": 42,
+        "imageUrl": "assets/weapon42.png",
+        "text": "Бдение взывающего к звездам",
+        "parameter": "weapon",
+        "info": "Ситлали"
+    },
+    {
+        "id": 43,
+        "imageUrl": "assets/weapon43.png",
+        "text": "Песнь странника",
+        "parameter": "weapon",
+        "info": "Мона"
+    },
+    {
+        "id": 44,
+        "imageUrl": "assets/weapon44.png",
+        "text": "Рассекающий туман",
+        "parameter": "weapon",
+        "info": "Аяка \nКэ Цин \nБеннет \nКэйа"
+    },
+    {
+        "id": 45,
+        "imageUrl": "assets/weapon45.png",
+        "text": "Ключ хадж нисут",
+        "parameter": "weapon",
+        "info": "Нилу \nКирара \nЛайла"
+    },
+    {
+        "id": 46,
+        "imageUrl": "assets/weapon46.png",
+        "text": "Плеск тихих вод",
+        "parameter": "weapon",
+        "info": "Фурина"
+    },
+    {
+        "id": 47,
+        "imageUrl": "assets/weapon47.png",
+        "text": "Харан геппаку фуцу",
+        "parameter": "weapon",
+        "info": "Аято"
+    },
+    {
+        "id": 48,
+        "imageUrl": "assets/weapon48.png",
+        "text": "Свет лиственного разреза",
+        "parameter": "weapon",
+        "info": "Аль-Хайтам"
+    },
+    {
+        "id": 49,
+        "imageUrl": "assets/weapon49.png",
+        "text": "Отпущение грехов",
+        "parameter": "weapon",
+        "info": "Клоринда"
+    },
+    {
+        "id": 50,
+        "imageUrl": "assets/weapon50.png",
+        "text": "Клятва свободы",
+        "parameter": "weapon",
+        "info": "Кадзуха \nКуки \nЛинетт"
+    },
+    {
+        "id": 51,
+        "imageUrl": "assets/weapon51.png",
+        "text": "Ураку мисугири",
+        "parameter": "weapon",
+        "info": "Тиори \nАльбедо"
+    },
+    {
+        "id": 52,
+        "imageUrl": "assets/weapon52.png",
+        "text": "Небесный меч",
+        "parameter": "weapon",
+        "info": "Джинн"
+    },
+    {
+        "id": 53,
+        "imageUrl": "assets/weapon53.png",
+        "text": "Песнь патруля пиков",
+        "parameter": "weapon",
+        "info": "Шилонен"
+    },
+    {
+        "id": 54,
+        "imageUrl": "assets/weapon54.png",
+        "text": "Церемониальный меч",
+        "parameter": "weapon",
+        "info": "Ци Ци \nСин Цю"
+    }
+    
+]
